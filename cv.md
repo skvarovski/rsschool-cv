@@ -1,6 +1,6 @@
-## Hello! I'm Mike Skvarovski and this is my public page.
-### Now I'm a 37 age old, live in Moscow, and work on Web technologes and learn mobile developing last 1 year.
-### My skills:
+##  Hello! I'm Mike Skvarovski and this is my public page.
+###  Now I'm a 37 age old, live in Moscow, and work on Web technologes and learn mobile developing last 1 year.
+###  My skills:
 * Network Administator (Firewall,Gateway), Database Administrator (MySQL,PostgreSQL), if you want long wifi link to your village house - send question to me.
 * Php, NodeJS, Javascript, CSS, Html - 10 year of programming
 * My favorite web stack: Yii2, Laravel, VueJS, RESTful, microservices
